@@ -1,4 +1,4 @@
-# Titanic---ML-from-Disaster
+# Titanic - ML from Disaster
 
 Overview
 This project is an exploration into the tragic sinking of the Titanic, one of the most infamous shipwrecks in history. Using machine learning techniques, we aim to predict which passengers survived the disaster based on features like age, sex, passenger class, and more. This project is part of the Kaggle competition "Titanic - Machine Learning from Disaster."
